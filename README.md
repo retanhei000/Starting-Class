@@ -14,7 +14,9 @@
 *[Syllabus](https://github.com/retanhei000/Starting-Class/blob/master/Syllabus.md)
 
 *[Course Discription](https://github.com/retanhei000/Starting-Class/blob/master/course_discription.md)
-
+#### New
+[What is CompSci?](https://github.com/retanhei000/Starting-Class/blob/master/new.md)
+[People of Intrest](https://github.com/retanhei000/Starting-Class/blob/master/new.md)
 
 #### Course Description
 * [Computer Science 1](https://shawnwegs.github.io/Starting-Class/course-descriptions/IB-MYP-CP-CompSci)
