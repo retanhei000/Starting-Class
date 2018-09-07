@@ -10,6 +10,10 @@
 * IB CP
 * [IB DP CS](https://shawnwegs.github.io/Starting-Class/IB-DP-CS-syllabus)
 
+#### Syllabus and Course Discription 
+[Syllabus](https://github.com/retanhei000/Starting-Class/blob/master/Syllabus.md)
+[Course Discription](
+
 #### Course Description
 * [Computer Science 1](https://shawnwegs.github.io/Starting-Class/course-descriptions/IB-MYP-CP-CompSci)
 * [Computer Science 2](https://shawnwegs.github.io/Starting-Class/course-descriptions/IB-MYP-CP-CompSci2)
