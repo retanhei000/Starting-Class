@@ -16,6 +16,7 @@
 *[Course Discription](https://github.com/retanhei000/Starting-Class/blob/master/course_discription.md)
 #### New
 [What is CompSci?](https://github.com/retanhei000/Starting-Class/blob/master/new.md)
+
 [People of Intrest](https://github.com/retanhei000/Starting-Class/blob/master/new.md)
 
 #### Course Description
